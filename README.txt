@@ -1,0 +1,1 @@
+cellularAutomata%20.php?argument1=<proportion>&argument2=<nombrecolonne>&argument3=<nblignes><>&argument4=<numerodelaregle>
